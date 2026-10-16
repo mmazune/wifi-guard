@@ -43,6 +43,11 @@ output is `frontend/dist/`. The Vercel project uses:
 `frontend/vercel.json` supplies SPA routing and intentionally contains no
 `rootDirectory` property.
 
+Production demonstration: <https://wifi-guard-alpha.vercel.app>
+Vercel project: `wifi-guard` in the `moses-mazunes-projects` team. The project
+is connected to <https://github.com/mmazune/wifi-guard> and production was
+verified from commit `5e435d8c36e51346ac4ae9521090def9f507b4d5`.
+
 ## Verification
 
 ```console

@@ -177,5 +177,5 @@ Primary references:
 
 ## Published project
 
-- GitHub: _added after publication_
-- Hosted demonstration: _added after deployment_
+- GitHub: <https://github.com/mmazune/wifi-guard>
+- Hosted demonstration: <https://wifi-guard-alpha.vercel.app>

@@ -1,6 +1,8 @@
 # WiFi Guard
 
-**[Open the hosted presentation](DEPLOYMENT_URL_PLACEHOLDER)** · **Moses Mazune**
+**[Open the hosted presentation](https://wifi-guard-alpha.vercel.app)** · **Moses Mazune**
+
+Source repository: <https://github.com/mmazune/wifi-guard>
 
 WiFi Guard is a local-first device inventory and discovery-workflow project
 built alongside the open-source Scapy repository. The public presentation uses

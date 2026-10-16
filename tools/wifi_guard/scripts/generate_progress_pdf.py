@@ -219,7 +219,7 @@ for item in [
     "RFC 826 - Address Resolution Protocol: https://www.rfc-editor.org/info/rfc826",
     "RFC 4861 - IPv6 Neighbor Discovery: https://www.rfc-editor.org/rfc/rfc4861.html",
 ]: story.append(bullet(item))
-story += [Spacer(1, 8 * mm), p("Published links", "H2WG"), p("GitHub and production deployment links are recorded in the repository README and Markdown progress report after publication."), Spacer(1, 8 * mm), p("Evidence first", "CalloutWG"), p(
+story += [Spacer(1, 8 * mm), p("Published links", "H2WG"), p("GitHub: https://github.com/mmazune/wifi-guard<br/>Hosted demonstration: https://wifi-guard-alpha.vercel.app"), Spacer(1, 8 * mm), p("Evidence first", "CalloutWG"), p(
     "The central project principle is to describe exactly what the available evidence supports. Inventory, association, monitoring, and enforcement are different claims and must remain visibly distinct."
 )]
 
